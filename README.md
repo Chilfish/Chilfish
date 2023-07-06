@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Chilfish/Chilfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Chilfish) [![wakatime](https://wakatime.com/badge/user/0842a71f-c026-4b09-8aa0-f8398b4c3423.svg)](https://wakatime.com/@0842a71f-c026-4b09-8aa0-f8398b4c3423)
 
-Here are some ideas to get you started:
+Chilish here, a student frontend developer who digs exploring new stuff and diving into full-stack development. I'm a code enthusiast through and through, and I love experimenting with different cool ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- I'm into open-source communities, working towards becoming a free-spirited developer. Also, I'm into developer-friendly tools like the NuxtJS ecosystem. -->
+
+<img
+  alt="Chilfish's Github"
+  src="https://gh.chilfish.top/api?username=chilfish&show_icons=true&count_private=true&theme=vue-dark"
+/>
+
