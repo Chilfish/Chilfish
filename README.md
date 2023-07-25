@@ -27,6 +27,6 @@ I started using Kotlin because of my Android homework, as its DX was much better
   /> &nbsp;&nbsp; 
   <img
     alt="Chilfish's WakaTime"
-    src="https://gh.chilfish.top/api/wakatime?username=Chilfish&layout=compact&langs_count=10&count_private=true&theme=vue-dark"
+    src="https://gh.chilfish.top/api/wakatime?layout=compact&langs_count=6&last_7_days=1&theme=vue-dark"
   />
 </p>
