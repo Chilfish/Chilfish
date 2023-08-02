@@ -23,10 +23,10 @@ I started using Kotlin because of my Android homework, as its DX was much better
 <p align="center">
   <img
     alt="Chilfish's Top languages"
-    src="https://gh.chilfish.top/api/top-langs/?username=chilfish&layout=compact&langs_count=10&count_private=true&exclude_repo=backups,gh-status,static&theme=vue-dark"
+    src="https://gh.chilfish.top/api/top-langs/?username=chilfish&layout=compact&langs_count=10&count_private=true&exclude_repo=backups,gh-status,static&theme=vue-dark&cache_seconds=0"
   /> &nbsp;&nbsp; 
   <img
     alt="Chilfish's WakaTime"
-    src="https://gh.chilfish.top/api/wakatime?layout=compact&langs_count=6&useKey=1&theme=vue-dark"
+    src="https://gh.chilfish.top/api/wakatime?layout=compact&langs_count=6&useKey=1&theme=vue-dark&cache_seconds=0"
   />
 </p>
