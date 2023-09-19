@@ -14,19 +14,17 @@ I started using Kotlin because of my Android homework, as its DX was much better
  
 <!-- Vue/Nuxt/Vite, yes!🥰 -->
 
-### Social
-
 <p>Email: <a href="mailto:chill4fish@gmail.com">chill4fish@gmail.com</a></p>
 
 <br/>
 
 <p align="center">
   <img
-    alt="Chilfish's Top languages"
-    src="https://gh.chilfish.top/api/top-langs/?username=chilfish&layout=compact&langs_count=10&count_private=true&exclude_repo=backups,gh-status,static&theme=vue-dark&cache_seconds=0"
+    alt="Chilfish's Github"
+    src="https://gh.chilfish.top/api?username=chilfish&show_icons=true&count_private=true&theme=vue-dark"
   /> &nbsp;&nbsp; 
   <img
     alt="Chilfish's WakaTime"
-    src="https://gh.chilfish.top/api/wakatime?layout=compact&langs_count=6&useKey=1&theme=vue-dark&cache_seconds=0"
+    src="https://gh.chilfish.top/api/wakatime?layout=compact&langs_count=6&useKey=1&theme=vue-dark"
   />
 </p>
