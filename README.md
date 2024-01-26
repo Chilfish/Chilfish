@@ -1,30 +1,26 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Chilfish, a student front-end developer, and I'm currently focusing on Vue/Nuxt.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Chilfish) [![wakatime](https://wakatime.com/badge/user/0842a71f-c026-4b09-8aa0-f8398b4c3423.svg)](https://wakatime.com/@0842a71f-c026-4b09-8aa0-f8398b4c3423)
 
-<!--
 
-As you can see below, I have spent a lot of time on C++ because I was learning algorithms using C++. However, I didn't know the project structure at that time, so I wrote less code in C++. 😅
-
-To reinforce what I have learned, I love writing them down in [My Notes](https://note.chilfish.top), which is my markdown time.
-
-I started using Kotlin because of my Android homework, as its DX was much better than Java. That's why I dedicated a lot of time to it. I also used Jetpack Compose to complete [the tasks](https://github.com/Chilfish/Chill-Chat).
-
- -->
- 
-<!-- Vue/Nuxt/Vite, yes!🥰 -->
-
-<p>Email: <a href="mailto:chill4fish@gmail.com">chill4fish@gmail.com</a></p>
-
-<br/>
-
-<p align="center">
+<picture>
   <img
     alt="Chilfish's Github"
     src="https://gh.chilfish.top/api?username=chilfish&show_icons=true&count_private=true&theme=vue-dark"
-  /> &nbsp;&nbsp; 
+    align=right
+  />
+</picture>
+
+I am Chilfish😇, a frontend developer and a student who is passionate about exploring new things and diving into full-stack development. I am a 100% code enthusiast who loves to experiment with various interesting ideas.
+
+I actively engage in open-source communities like GitHub and aspire to become a free-spirited developer. Also, I like the developer-friendly tools like NuxtJS ecosystem and AstroJS.
+
+If anyone wants to reach out to me for a chat or discussion, I would be delighted!
+
+<picture>
   <img
     alt="Chilfish's WakaTime"
     src="https://gh.chilfish.top/api/wakatime?layout=compact&langs_count=6&useKey=1&theme=vue-dark"
+    align=left
   />
-</p>
+</picture>
